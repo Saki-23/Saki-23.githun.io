@@ -21,6 +21,7 @@
 - Test Coverage, Test case Execution for given Requirement.
 - Collaborated with developers and product team on daily standups to complete the project in given timeline.
 - Designed and executed end-to-end test plans for web and mobile applications, ensuring defect detection before production.
+  
 ---
 
 ### Associate (QC) — 247 Digitize Private Limited  
@@ -28,7 +29,8 @@
 - Quality Controller- Analyzed, structured, and validated large volumes of data to improve clarity, usability, and consistency for internal and external stakeholders.
 - Collaborated with multiple project teams as a flexible and dependable resource, offering data support, cleansing, and QA for diverse business needs.
 - Played a key role in live data release cycles, ensuring that curated and quality-checked data was deployed accurately and on time.
-- Maintained data integrity and compliance with internal standards, contributing to enhanced decision-making and operational efficiency
+- Maintained data integrity and compliance with internal standards, contributing to enhanced decision-making and operational efficiency.
+  
 ---
 
 ## 🎓 Education
@@ -39,6 +41,7 @@ Madras University, 2022 | GPA - 80%
 ## 🏆 Certifications  
 - Certified in Java and python – Foundation Level
 - Certified in Selenium with Java for Automation
+
 ---
 
 ## 🌐 Links
