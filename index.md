@@ -36,6 +36,7 @@
 ## 🎓 Education
 **Bachelor of Science(Physics)**  
 Madras University, 2022 | GPA - 80%
+
 ---
 
 ## 🏆 Certifications  
