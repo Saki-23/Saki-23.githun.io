@@ -1,3 +1,14 @@
+<style>
+body {
+  margin: 40px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
 # 👨‍💻 Sakthi Sneha Gopinath
 
 **Software Test Engineer** | 📍 chennai, India | 📧 sakthigopinath23@gamil.com | ☎️ 9345156608
