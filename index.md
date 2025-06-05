@@ -1,4 +1,4 @@
-# 👨‍💻 Your Name
+# 👨‍💻 Sakthi Sneha Gopinath
 
 **Software Test Engineer** | 📍 chennai, India | 📧 sakthigopinath23@gamil.com | ☎️ 9345156608
 
